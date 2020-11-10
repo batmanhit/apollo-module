@@ -35,11 +35,11 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "cross-fetch": "^3.0.4",
-    "universal-cookie": "^4.0.3",
-    "vue-apollo": "^3.0.4",
-    "vue-cli-plugin-apollo": "^0.21.3",
-    "webpack-node-externals": "^2.5.0"
+    "cross-fetch": "^3.0.6",
+    "universal-cookie": "^4.0.4",
+    "vue-apollo": "^3.0.5",
+    "vue-cli-plugin-apollo": "git://github.com/batmanhit/vue-cli-plugin-apollo.git",
+    "webpack-node-externals": "^2.5.2"
   },
   "peerDependencies": {
     "apollo-cache-inmemory": "^1.6.5"
