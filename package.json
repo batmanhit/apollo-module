@@ -37,7 +37,7 @@
   "dependencies": {
     "cross-fetch": "^3.0.6",
     "universal-cookie": "^4.0.4",
-    "vue-apollo": "^3.0.5",
+    "vue-apollo": "^3.0.3",
     "vue-cli-plugin-apollo": "git://github.com/batmanhit/vue-cli-plugin-apollo.git#regenerator-runtime",
     "webpack-node-externals": "^2.5.2"
   },
